@@ -1,0 +1,30 @@
+{
+  "name": "node_comunicacao_exemplo",
+  "version": "1.0.0",
+  "description": "<h1>Servidor de comunicacaoes exemplo</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "start": "ts-node src/server.ts",
+    "dev": "nodemon src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepitoko/node_comunicacao_exemplo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepitoko/node_comunicacao_exemplo/issues"
+  },
+  "homepage": "https://github.com/felipepitoko/node_comunicacao_exemplo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "express": "^4.18.2",
+    "typescript": "^4.9.4"
+  }
+}
