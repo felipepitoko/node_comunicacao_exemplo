@@ -1,4 +1,4 @@
-<h1>Servidor de comunicacaoes exemplo</h1> 
+<h1>Servidor de mensagens</h1> 
 
 Um servidor nodeJS com typescript e *insira um banco aqui* para gerenciar envios de emails para clientes.
 A ideia e basicamente treinar alguns conceitos recorrentes em desenvolvimento backend.
